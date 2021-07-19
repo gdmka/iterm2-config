@@ -39,11 +39,11 @@
   "Default Bookmark" : "No",
   "Allow Title Reporting" : true,
   "Cursor Guide Color" : {
-    "Red Component" : 0.70213186740875244,
+    "Red Component" : 0.90474796295166016,
     "Color Space" : "sRGB",
-    "Blue Component" : 1,
-    "Alpha Component" : 0.25,
-    "Green Component" : 0.9268307089805603
+    "Blue Component" : 0.89380530636895272,
+    "Alpha Component" : 0.11817169189453125,
+    "Green Component" : 0.82879001863238955
   },
   "Non-ASCII Anti Aliased" : true,
   "Use Bright Bold" : false,
@@ -53,6 +53,7 @@
     "Blue Component" : 0.45882352941176469,
     "Green Component" : 0.43137254901960786
   },
+  "Use Cursor Guide" : true,
   "Ambiguous Double Width" : false,
   "Jobs to Ignore" : [
     "rlogin",
@@ -64,15 +65,18 @@
     "Red Component" : 0.99215686274509807,
     "Color Space" : "sRGB",
     "Blue Component" : 0.8901960784313725,
+    "Alpha Component" : 1,
     "Green Component" : 0.96470588235294119
   },
   "Foreground Color" : {
-    "Red Component" : 0.51372549019607838,
+    "Red Component" : 0.54725012094195336,
     "Color Space" : "sRGB",
-    "Blue Component" : 0.58823529411764708,
-    "Green Component" : 0.58039215686274515
+    "Blue Component" : 0.68834257125854492,
+    "Alpha Component" : 1,
+    "Green Component" : 0.67349070524676879
   },
   "Working Directory" : "\/Users\/gdmka",
+  "Use Tab Color" : false,
   "Blinking Cursor" : true,
   "Disable Window Resizing" : true,
   "Sync Title" : false,
@@ -83,10 +87,11 @@
   "Mouse Reporting" : true,
   "Screen" : -1,
   "Selection Color" : {
-    "Red Component" : 0.027450980392156862,
+    "Red Component" : 0.095270487471452725,
     "Color Space" : "sRGB",
-    "Blue Component" : 0.25882352941176473,
-    "Green Component" : 0.21176470588235294
+    "Blue Component" : 0.18414564659002466,
+    "Alpha Component" : 1,
+    "Green Component" : 0.38568854331970215
   },
   "Initial Use Transparency" : false,
   "Columns" : 80,
@@ -99,6 +104,7 @@
     "Blue Component" : 0.7686274509803922,
     "Green Component" : 0.44313725490196076
   },
+  "Brighten Bold Text" : true,
   "Custom Command" : "No",
   "ASCII Anti Aliased" : true,
   "Non Ascii Font" : "Monaco 12",
@@ -106,10 +112,11 @@
   "Use Bold Font" : true,
   "Option Key Sends" : 0,
   "Selected Text Color" : {
-    "Red Component" : 0.57647058823529407,
+    "Red Component" : 0.97539806365966797,
     "Color Space" : "sRGB",
-    "Blue Component" : 0.63137254901960782,
-    "Green Component" : 0.63137254901960782
+    "Blue Component" : 1,
+    "Alpha Component" : 1,
+    "Green Component" : 1
   },
   "Background Color" : {
     "Red Component" : 0,
@@ -319,15 +326,17 @@
     "Red Component" : 0.027450980392156862,
     "Color Space" : "sRGB",
     "Blue Component" : 0.25882352941176473,
+    "Alpha Component" : 1,
     "Green Component" : 0.21176470588235294
   },
   "Open Toolbelt" : false,
   "Shortcut" : "",
   "Cursor Color" : {
-    "Red Component" : 0.51372549019607838,
+    "Red Component" : 1,
     "Color Space" : "sRGB",
-    "Blue Component" : 0.58823529411764708,
-    "Green Component" : 0.58039215686274515
+    "Blue Component" : 1,
+    "Alpha Component" : 1,
+    "Green Component" : 1
   },
   "Transparency" : 0,
   "Ansi 0 Color" : {
@@ -361,6 +370,7 @@
     "Red Component" : 0.93333333333333335,
     "Color Space" : "sRGB",
     "Blue Component" : 0.83529411764705885,
+    "Alpha Component" : 1,
     "Green Component" : 0.90980392156862744
   },
   "Ansi 8 Color" : {
