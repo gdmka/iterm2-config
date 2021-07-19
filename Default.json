@@ -39,11 +39,11 @@
   "Default Bookmark" : "No",
   "Allow Title Reporting" : true,
   "Cursor Guide Color" : {
-    "Red Component" : 0.90474796295166016,
+    "Red Component" : 0.25568487270538753,
     "Color Space" : "sRGB",
-    "Blue Component" : 0.89380530636895272,
-    "Alpha Component" : 0.11817169189453125,
-    "Green Component" : 0.82879001863238955
+    "Blue Component" : 0.82677268981933594,
+    "Alpha Component" : 0.073132514953613281,
+    "Green Component" : 0.62514346795140352
   },
   "Non-ASCII Anti Aliased" : true,
   "Use Bright Bold" : false,
@@ -69,11 +69,11 @@
     "Green Component" : 0.96470588235294119
   },
   "Foreground Color" : {
-    "Red Component" : 0.54725012094195336,
+    "Red Component" : 0.51372549019607838,
     "Color Space" : "sRGB",
-    "Blue Component" : 0.68834257125854492,
+    "Blue Component" : 0.58823529411764708,
     "Alpha Component" : 1,
-    "Green Component" : 0.67349070524676879
+    "Green Component" : 0.58039215686274515
   },
   "Working Directory" : "\/Users\/gdmka",
   "Use Tab Color" : false,
