@@ -24,6 +24,7 @@
     "Green Component" : 0.58039215686274515
   },
   "Right Option Key Sends" : 0,
+  "Show Status Bar" : true,
   "Character Encoding" : 4,
   "Selection Color" : {
     "Red Component" : 0.095270487471452697,
@@ -52,6 +53,72 @@
     "telnet"
   ],
   "Scrollback Lines" : 0,
+  "Status Bar Layout" : {
+    "components" : [
+      {
+        "class" : "iTermStatusBarCPUUtilizationComponent",
+        "configuration" : {
+          "knobs" : {
+            "base: priority" : 5,
+            "base: compression resistance" : 1
+          },
+          "layout advanced configuration dictionary value" : {
+            "auto-rainbow style" : 0,
+            "algorithm" : 0,
+            "remove empty components" : false
+          }
+        }
+      },
+      {
+        "class" : "iTermStatusBarMemoryUtilizationComponent",
+        "configuration" : {
+          "knobs" : {
+            "base: priority" : 5,
+            "base: compression resistance" : 1
+          },
+          "layout advanced configuration dictionary value" : {
+            "auto-rainbow style" : 0,
+            "algorithm" : 0,
+            "remove empty components" : false
+          }
+        }
+      },
+      {
+        "class" : "iTermStatusBarNetworkUtilizationComponent",
+        "configuration" : {
+          "knobs" : {
+            "base: priority" : 5,
+            "base: compression resistance" : 1
+          },
+          "layout advanced configuration dictionary value" : {
+            "auto-rainbow style" : 0,
+            "algorithm" : 0,
+            "remove empty components" : false
+          }
+        }
+      },
+      {
+        "class" : "iTermStatusBarSearchFieldComponent",
+        "configuration" : {
+          "knobs" : {
+            "base: priority" : 5,
+            "base: compression resistance" : 1
+          },
+          "layout advanced configuration dictionary value" : {
+            "auto-rainbow style" : 0,
+            "algorithm" : 0,
+            "remove empty components" : false
+          }
+        }
+      }
+    ],
+    "advanced configuration" : {
+      "remove empty components" : false,
+      "font" : ".AppleSystemUIFont 12",
+      "algorithm" : 0,
+      "auto-rainbow style" : 0
+    }
+  },
   "Hide After Opening" : false,
   "Brighten Bold Text" : true,
   "Flashing Bell" : true,
@@ -281,7 +348,7 @@
     "Blue Component" : 0.58823529411764708,
     "Green Component" : 0.58039215686274515
   },
-  "Window Type" : 0,
+  "Window Type" : 12,
   "Allow Title Reporting" : true,
   "Use Bright Bold" : false,
   "Cursor Text Color" : {
@@ -307,7 +374,7 @@
   },
   "Name" : "Default",
   "Blinking Cursor" : true,
-  "Guid" : "548D7A79-EB43-4F97-A595-5EB59C3CDC76",
+  "Guid" : "F44F368D-C269-46A2-9B65-4D3DCFFA23C4",
   "Idle Code" : 0,
   "Ansi 10 Color" : {
     "Red Component" : 0.34509803921568627,
@@ -385,6 +452,7 @@
   },
   "Use Tab Color" : false,
   "Columns" : 120,
+  "Show Timestamps" : 1,
   "Visual Bell" : true,
   "Custom Directory" : "Recycle",
   "Ansi 5 Color" : {
